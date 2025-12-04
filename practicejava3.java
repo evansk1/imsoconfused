@@ -1,4 +1,4 @@
-public class practice3 {
+public class practicejava3 {
 
     // Function to sum all elements in a 2D double array
     public static double sumGrid(double[][] grid) {

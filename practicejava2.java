@@ -1,4 +1,4 @@
-public class practice2 {
+public class practicejava2 {
 
     // Function to reverse an array
     public static int[] reverseArray(int[] arr) {

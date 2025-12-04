@@ -1,4 +1,4 @@
-public class practice4 {
+public class practicejava4 {
 
     // Function to return the nth Fibonacci number
     public static int fib(int n) {
